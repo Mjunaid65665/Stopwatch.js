@@ -5,6 +5,12 @@ This project is created for **frontend practice** to understand JavaScript timin
 
 ---
 
+
+Live Demo:  https://mjunaid65665.github.io/Stopwatch.js/
+
+
+---
+
 ## 🚀 Features
 
 - Start, Stop, and Reset functionality
